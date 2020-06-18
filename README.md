@@ -1,2 +1,2 @@
-# DS_siddharth_linearregression
+# DS_siddharthyerunkar_linearregression
 linear regression model WC_AT
